@@ -1,0 +1,55 @@
+.sv_qstn .sq-root {
+  border: 2px solid gray;
+  border-left: 4px solid #18a689;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.sv_qstn .sq-root-cb {
+  border-left: 4px solid orange;
+}
+
+.sq-title {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.sq-title-required {
+  color: rgb(196, 91, 42);
+}
+.sq-label {
+  margin-left: 30px;
+}
+.sq-item:nth-child(1) {
+  margin-bottom: 5px;
+}
+
+.sv_container {
+  background: rgb(43, 42, 42);
+}
+
+.sq-root {
+  font-size: 15px;
+  color: red;
+  background: rgb(24, 24, 24);
+}
+
+.sv_main.sv_default_css input[type="button"] {
+  border-radius: 23px;
+  font-size: 20px;
+  color: black;
+}
+
+.surveys-list button,
+.surveys-list .sv_button_link:hover,
+.survey-page-header button,
+.sv_container button {
+  border-radius: 10px;
+}
+
+#surveyNext {
+  display: inline-block;
+  width: 80px;
+  height: 90px;
+  color: aqua;
+}
